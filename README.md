@@ -7,7 +7,7 @@
 
   Cryptex is a fully responsive cryptocurrency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://cryptex56.vercel.app/"><strong>➥ Live Demo</strong></a>
+  <a href="https://dkrupali56.github.io/Cryptex-Site/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
