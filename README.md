@@ -53,7 +53,7 @@ git clone https://github.com/codewithsadee/cryptex.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://twitter.com/vasanidarshan56).
+If you want to contact with me you can reach me at [Twitter](https://twitter.com/k_rdesai03).
 
 ### License
 
